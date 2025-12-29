@@ -2,17 +2,37 @@
 A beginners guide to processing images from the SeeStar. 
 
 - SeeStar Settings
-- - Save frames
+  - Save frames
   - Exposure times
   - EQ Mounting
   - Planning
   - Mosaics
 - Processing Software Installation
-- - Siril
+  - Siril
   - GraXpert
   - StarNet++
   - Cosmic Clarity
   - GIMP
+- Setting up Siril
+  - Telling it where GraXpert is installed
+  - Telling it where StarNet++ is installed
+  - Installing scripts
+    - SeeStar Processing
+    - DSA SeeStar Mosaic Processing
+    - GraXpert
+    - Cosmic Clarity Sharpen
+        - Tell it where Cosmic Clarity is installed
+    - Veralux Stretch
+    - Veralux Recomposition
+    - GAIA Archive Installation
+- Setting up your working directory
+  - New directory
+  - Create lights directory
+  - Connect to SeeStar
+    - Wired
+    - Wireless
+    - Selecting FIT files
+  - Transfer files
 - Workflow
 
 Astrophotography Processing Workflow
