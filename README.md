@@ -1,6 +1,7 @@
 # SeeStar Processing Guide
 A beginners guide to processing images from the SeeStar. 
 
+## Outline of planned document
 - SeeStar Settings
   - Save frames
   - Exposure times
@@ -35,6 +36,7 @@ A beginners guide to processing images from the SeeStar.
   - Transfer files
 - Workflow
 
+## My workflow text file I made for myself
 Astrophotography Processing Workflow
 
 Finder:
