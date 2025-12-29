@@ -2,6 +2,9 @@
 A beginners guide to processing images from the SeeStar. 
 
 ## Outline of planned document
+- Introduction
+  - Comparing SeeStar Software to Siril
+  - Audience
 - SeeStar Settings
   - Save frames
   - Exposure times
@@ -21,6 +24,7 @@ A beginners guide to processing images from the SeeStar.
     - SeeStar Processing
     - DSA SeeStar Mosaic Processing
     - GraXpert
+    - AutoBGE
     - Cosmic Clarity Sharpen
         - Tell it where Cosmic Clarity is installed
     - Veralux Stretch
@@ -35,64 +39,42 @@ A beginners guide to processing images from the SeeStar.
     - Selecting FIT files
   - Transfer files
 - Workflow
-
-## My workflow text file I made for myself
-Astrophotography Processing Workflow
-
-Finder:
-Folder name "Catalogue Object [Mosaic] RAW FITs Month Year"
-Extract lights to "lights" directory
-
-Siril 1.4:
-Set home directory to "Catalogue Object [Mosaic] RAW FITs Month Year"
-
-Normal Stack
-Run SeeStar Stacking Script
-
-Mosaic Stack
-Run DSA SeeStar Mosaic Stacking Script
-
-Drizzle Stack
-Create process directory
-Set home to process directory
-Conversion Tab
-Add lights
-Sequence Name -> lights
-Convert
-Registration Tab
-Output Registration -> Reciprocal -> Scaling=2x/PixelSize=0.5
-Go Register
-Stacking Tab
-Output Normalization checked
-RGB Equalization checked
-Start Stacking
-
-Preprocess
-Open processed file
-View in autostretch mode
-Run background extraction (Built In or GraXpert Script)
-Plate solve (Tools -> Astrometry -> Image Plate Solver)
-Spectrophotometric Color Calibration -> Set SeeStar S50 Sensor
-Remove stars with starnet
-
-Autostretch
-Switch to linear
-Use VeraLUX auto stretch script
-Set SeeStar S50 Sensor
-Autocalculate Log D
-
-
-Denoise
-Sharpen
-Star Recomposition VeraLUX -> Background is starless, foreground is starmask -> stretch in stars
-Run GraXpert AI denoise again if needed
-Sharpen if needed
-Histogram stretch move darks to make darker
-
-Save
-
-GIMP:
-Watermark
-
-TODO: 
-Work on drizzle
+  - Set home directory
+  - Stacking
+    - Standard stacking
+    - Mosaic stacking
+  - Open stacked FIT
+  - Autostretch for better viewing
+  - Cropping
+    - Save cropped for mosaics
+  - Background extraction
+    - GraXpert
+    - AutoBGE
+    - Siril built in overview
+  - Plate solve
+    - Manually solve via search
+  - Spectrophotometric color calibration
+  - Remove stars
+  - Set to linear mode
+  - Verlux stretch
+    - Set sensor
+    - Log D
+  - Denoise
+  - Sharpen
+    - Hardness
+    - Non-stellar
+  - Save starless
+  - Veralux Recomposition
+    - Starmask linear
+    - Starless stretched
+    - Stretch in stars to taste
+  - Denoise if needed again
+  - Sharpen stellar data
+  - Histogram Stretch to darken darks
+  - Save processed
+    - Save as JPEG/TIFF
+  - Watermarking in GIMP
+- Glosary
+- Frequently asked questions
+- Contributing
+- Thank yous/Links
