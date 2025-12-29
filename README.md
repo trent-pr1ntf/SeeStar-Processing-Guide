@@ -1,4 +1,4 @@
-# SeeStar-Processing-Guide
+# SeeStar Processing Guide
 A beginners guide to processing images from the SeeStar. 
 
 - SeeStar Settings
