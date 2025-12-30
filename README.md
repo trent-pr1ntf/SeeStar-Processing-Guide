@@ -27,7 +27,7 @@ Using Alt/Az mode usually limits you to 10 second exposures [link], just by the 
 
 Remember, we're looking for as much light [link] data as possible, with the least ammount of noise [link]. One 30 Second exposure gets you a good amount of light, but with less noise than 3 10 Second exposures. I'm not saying you *need* to use EQ mode to have better picutres, but it does help. If all you have at your disposal is the ability to use Alt/Az mode, you can still come up with some great photos, it just make take more integration time [link], or total combined exposure time. 
 
-[Narrative about planning]
+[Narrative about planning, reiterarting need for long integration times]
 
 [Narrative about mosaic mode]
 
