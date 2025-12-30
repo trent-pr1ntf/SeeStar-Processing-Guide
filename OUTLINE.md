@@ -1,0 +1,77 @@
+## Outline of planned guide
+- Introduction
+  - Comparing SeeStar Software to Siril
+  - Audience
+- SeeStar Settings
+  - Save frames
+  - Exposure times
+  - EQ Mounting
+  - Planning
+  - Mosaics
+- Processing Software Installation
+  - Siril
+  - GraXpert
+  - StarNet++
+  - Cosmic Clarity
+  - GIMP
+- Setting up Siril
+  - Telling it where GraXpert is installed
+  - Telling it where StarNet++ is installed
+  - Installing scripts
+    - SeeStar Processing
+    - DSA SeeStar Mosaic Processing
+    - GraXpert
+    - AutoBGE
+    - Cosmic Clarity Sharpen
+        - Tell it where Cosmic Clarity is installed
+    - Veralux Stretch
+    - Veralux Recomposition
+    - GAIA Archive Installation
+- Setting up your working directory
+  - New directory
+  - Create lights directory
+  - Connect to SeeStar
+    - Wired
+    - Wireless
+    - Selecting FIT files
+  - Transfer files
+- Workflow
+  - Set home directory
+  - Stacking
+    - Standard stacking
+    - Mosaic stacking
+  - Open stacked FIT
+  - Autostretch for better viewing
+  - Cropping
+    - Save cropped for mosaics
+  - Background extraction
+    - GraXpert
+    - AutoBGE
+    - Siril built in overview
+  - Plate solve
+    - Manually solve via search
+  - Spectrophotometric color calibration
+  - Remove stars
+  - Set to linear mode
+  - Verlux stretch
+    - Set sensor
+    - Log D
+  - Denoise
+  - Sharpen
+    - Hardness
+    - Non-stellar
+  - Save starless
+  - Veralux Recomposition
+    - Starmask linear
+    - Starless stretched
+    - Stretch in stars to taste
+  - Denoise if needed again
+  - Sharpen stellar data
+  - Histogram Stretch to darken darks
+  - Save processed
+    - Save as JPEG/TIFF
+  - Watermarking in GIMP
+- Glossary
+- Frequently asked questions
+- Contributing
+- Thank yous/Links
