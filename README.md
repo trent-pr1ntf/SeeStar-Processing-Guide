@@ -29,6 +29,8 @@ Remember, we're looking for as much light [link] data as possible, with the leas
 
 To change your exposure time, while in Stargazing mode, click the three dots in the upper right (...), and select "30s" under Enhance EXP. [insert screenshot]
 
+[Narrative and screenshots of saving each frame, and need for long integration times]
+
 [Narrative about planning, reiterarting need for long integration times]
 
 [Narrative about mosaic mode]
