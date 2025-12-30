@@ -43,40 +43,40 @@ To change your exposure time, while in Stargazing mode, click the three dots in 
 
 ## Workflow
 - Set home directory
-  - Stacking
-    - Standard stacking
-    - Mosaic stacking
-  - Open stacked FIT
-  - Autostretch for better viewing
-  - Cropping
-    - Save cropped for mosaics
-  - Background extraction
-    - GraXpert
-    - AutoBGE
-    - Siril built in overview
-  - Plate solve
-    - Manually solve via search
-  - Spectrophotometric color calibration
-  - Remove stars
-  - Set to linear mode
-  - Verlux stretch
-    - Set sensor
-    - Log D
-  - Denoise
-  - Sharpen
-    - Hardness
-    - Non-stellar
-  - Save starless
-  - Veralux Recomposition
-    - Starmask linear
-    - Starless stretched
-    - Stretch in stars to taste
-  - Denoise if needed again
-  - Sharpen stellar data
-  - Histogram Stretch to darken darks
-  - Save processed
-    - Save as JPEG/TIFF
-  - Watermarking in GIMP
+- Stacking
+  - Standard stacking
+  - Mosaic stacking
+- Open stacked FIT
+- Autostretch for better viewing
+- Cropping
+  - Save cropped for mosaics
+- Background extraction
+  - GraXpert
+  - AutoBGE
+  - Siril built in overview
+- Plate solve
+  - Manually solve via search
+- Spectrophotometric color calibration
+- Remove stars
+- Set to linear mode
+- Verlux stretch
+  - Set sensor
+  - Log D
+- Denoise
+- Sharpen
+  - Hardness
+  - Non-stellar
+- Save starless
+- Veralux Recomposition
+  - Starmask linear
+  - Starless stretched
+  - Stretch in stars to taste
+- Denoise if needed again
+- Sharpen stellar data
+- Histogram Stretch to darken darks
+- Save processed
+  - Save as JPEG/TIFF
+- Watermarking in GIMP
 
 ## Glossary
 
