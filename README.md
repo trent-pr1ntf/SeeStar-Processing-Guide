@@ -42,3 +42,11 @@ To change your exposure time, while in Stargazing mode, click the three dots in 
 ## Setting Up Your Working Directory
 
 ## Workflow
+
+## Glossary
+
+## Frequently asked questions
+
+## Contributing
+
+## Thank yous/Links
