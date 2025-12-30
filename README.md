@@ -15,6 +15,21 @@ I'll try my best to make it simple, while also keeping the details in so you hav
 Well, now that we have created our universe, let's bake our apple pie. 
 
 ## SeeStar Settings
+Before we get started with the software, let's dive into some settings in the SeeStar application itself that we'll need to set to get some better images. 
+
+[Insert narrative and screenshots for enhacncing images, it takes darks]
+
+The SeeStar also takes built in flats [link]. [Insert narrative and screenshots of flat taking]
+
+Let's pause talking about about software for just a moment, and let's talk about mount modes. When your SeeStar gets delivered to your door, and you set it up for the first time, you are likely using Altitude/Azimuith (Alt/Az) [link] mode. [Insert narrative on how Alt/Az tracks, and using a leveling head to help]
+
+Using Alt/Az mode usually limits you to 10 second exposures [link], just by the nature of how it tracks. Any longer, and you tend to get star trails in your pictures, and you generally can't use images with star trails. If you want longer exposure times, you'll need to upgrade to equatorial (EQ) [link] mounting. [Narratives and links to EQ wedges]. Since the EQ method doesn't make tiny corrections to track objects, instead moving with the rotation of the Earth, you can take longer exposures. Personally, I have found that 30 Second exposures work best. Almost all of my images don't have star trails. Some people make 60 Second exposures work, but your experience may vary. 
+
+Remember, we're looking for as much light [link] data as possible, with the least ammount of noise [link]. One 30 Second exposure gets you a good amount of light, but with less noise than 3 10 Second exposures. I'm not saying you *need* to use EQ mode to have better picutres, but it does help. If all you have at your disposal is the ability to use Alt/Az mode, you can still come up with some great photos, it just make take more integration time [link], or total combined exposure time. 
+
+[Narrative about planning]
+
+[Narrative about mosaic mode]
 
 ## Processing Software Installation
 
