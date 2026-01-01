@@ -72,6 +72,27 @@
     - Save as JPEG/TIFF
   - Watermarking in GIMP
 - Glossary
+  - Stacking
+  - Darks
+  - Flats
+  - Lights
+  - Stretching
+    - Linear
+  - Noise
+  - Feathering
+  - Siril
+  - Pixinsight
+  - Photoshop
+  - GIMP
+  - Alt/Az
+  - Equatorial
+  - Mosaic
+  - Background Gradient
+  - Plate Solve
+  - Color Calibration
+  - FIT
+  - JPEG
+  - TIFF
 - Frequently asked questions
   - Feathering and Nazstronomy in Mosaics
 - Contributing
