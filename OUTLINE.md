@@ -75,4 +75,12 @@
 - Frequently asked questions
   - Feathering and Nazstronomy in Mosaics
 - Contributing
-- Thank yous/Links
+- Thank you
+  - r/SeeStar
+  - r/AskAstrophotography
+  - DeepSpaceAstro
+  - Veralux
+  - Nazstronomy
+  - Siril
+  - GraXpert
+  - Cosmic Clarity
