@@ -79,6 +79,7 @@
   - Stretching
     - Linear
   - Noise
+    - Field rotation
   - Feathering
   - Siril
   - Pixinsight
@@ -95,6 +96,10 @@
   - TIFF
 - Frequently asked questions
   - Feathering and Nazstronomy in Mosaics
+  - Why is it so dark/Linear Mode
+  - I can't find Starnet/Archive.org
+  - I found an error/Contribiting
+  - Financial Donations
 - Contributing
 - Thank you
   - r/SeeStar
