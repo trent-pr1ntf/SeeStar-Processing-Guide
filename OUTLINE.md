@@ -73,5 +73,6 @@
   - Watermarking in GIMP
 - Glossary
 - Frequently asked questions
+  - Feathering and Nazstronomy in Mosaics
 - Contributing
 - Thank yous/Links
