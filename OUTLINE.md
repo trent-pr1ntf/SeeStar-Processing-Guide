@@ -60,6 +60,7 @@
   - Sharpen
     - Hardness
     - Non-stellar
+  - Histogram Stretch to darken darks
   - Save starless
   - Veralux Recomposition
     - Starmask linear
@@ -67,7 +68,6 @@
     - Stretch in stars to taste
   - Denoise if needed again
   - Sharpen stellar data
-  - Histogram Stretch to darken darks
   - Save processed
     - Save as JPEG/TIFF
   - Watermarking in GIMP
