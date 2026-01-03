@@ -32,6 +32,8 @@ To change your exposure time, while in Stargazing mode, click the three dots in 
 ![Image](https://github.com/trent-pr1ntf/SeeStar-Processing-Guide/blob/e504c0a2fd0677782ff61414bdfb8741ec2fb55f/images/ExposureTime-2.png)
 
 [Narrative and screenshots of saving each frame, and need for long integration times]
+![Image](https://github.com/trent-pr1ntf/SeeStar-Processing-Guide/blob/b5130e2e15f07206eac02c8353b0ac2d9ffd9e90/images/SaveFrames-1.png)
+![Image](https://github.com/trent-pr1ntf/SeeStar-Processing-Guide/blob/b5130e2e15f07206eac02c8353b0ac2d9ffd9e90/images/SaveFrames-2.png)
 
 [Narrative about planning, reiterarting need for long integration times]
 
