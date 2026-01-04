@@ -85,6 +85,9 @@
   - Pixinsight
   - Photoshop
   - GIMP
+  - GraXpert
+  - Starnet++
+  - Cosmic Clarity
   - Alt/Az
   - Equatorial
   - Mosaic
