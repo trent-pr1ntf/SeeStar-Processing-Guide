@@ -88,6 +88,7 @@ After that, we'll want to install Startnet++ [link]. It's used to remove backgro
   - Hardness
   - Non-stellar
 - Histogram Stretch to darken darks
+- Veralux Vectra if needed for tweaking colors
 - Save starless
 - Veralux Recomposition
   - Starmask linear
