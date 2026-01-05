@@ -26,6 +26,7 @@
         - Tell it where Cosmic Clarity is installed
     - Veralux Stretch
     - Veralux Recomposition
+    - Veralux Vectra
     - GAIA Archive Installation
 - Setting up your working directory
   - New directory
