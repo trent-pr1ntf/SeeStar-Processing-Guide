@@ -61,6 +61,7 @@
     - Hardness
     - Non-stellar
   - Histogram Stretch to darken darks
+  - Veralux Vectra if needed for tweaking colors
   - Save starless
   - Veralux Recomposition
     - Starmask linear
