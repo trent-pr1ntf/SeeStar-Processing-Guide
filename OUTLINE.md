@@ -33,7 +33,6 @@
   - Create lights directory
   - Connect to SeeStar
     - Wired
-    - Wireless
     - Selecting FIT files
   - Transfer files
 - Workflow
