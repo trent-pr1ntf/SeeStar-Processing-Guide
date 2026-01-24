@@ -25,9 +25,34 @@ Let's pause talking about about software for just a moment, and let's talk about
 [Insert screenshots of leveling]
 
 Using Alt/Az mode usually limits you to 10 second exposures [link], just by the nature of how it tracks. Any longer, and you tend to get star trails in your pictures, and you generally can't use images with star trails. If you want longer exposure times, you'll need to upgrade to equatorial (EQ) [link] mounting. [Narratives and links to EQ wedges]. Since the EQ method doesn't make tiny corrections to track objects, instead moving with the rotation of the Earth, you can take longer exposures. Personally, I have found that 30 Second exposures work best. Almost all of my images don't have star trails. Some people make 60 Second exposures work, but your experience may vary.
-[Insert images of polar aligning]
 
-Remember, we're looking for as much light [link] data as possible, with the least ammount of noise [link]. One 30 Second exposure gets you a good amount of light, but with less noise than 3 10 Second exposures. I'm not saying you *need* to use EQ mode to have better picutres, but it does help. If all you have at your disposal is the ability to use Alt/Az mode, you can still come up with some great photos, it just make take more integration time [link], or total combined exposure time. 
+Before setting up your SeeStar in EQ mode for the first time, I'd always suggest watching the tutorial video provided by ZWO. It'll get you started in the right direction. I'll go over some of the screens you'll use, but first and formost, make sure you try to get your tripod as level as possible with the SeeStar on it's EQ mount. If it's not very level, you will have a harder time later in the process. [Insert narrative and picutres about making sure the SeeStar leans against a leg of the tripod, and the power button points up when tilted]
+
+Once it's set up, let's start with the settings in the app. Select the image of the SeeStar at the top of the app. 
+![Image](https://github.com/trent-pr1ntf/SeeStar-Processing-Guide/blob/e31e459ae91042fb494f5c0d091d146dae93b5dc/images/EQMode-1.png)
+
+Scroll down to "Advanced Features" at the bottom. 
+![Image](https://github.com/trent-pr1ntf/SeeStar-Processing-Guide/blob/e31e459ae91042fb494f5c0d091d146dae93b5dc/images/EQMode-2.png)
+
+Scroll to "Mount Mode" and "Switch" to "EQ Mode."
+![Image](https://github.com/trent-pr1ntf/SeeStar-Processing-Guide/blob/e31e459ae91042fb494f5c0d091d146dae93b5dc/images/EQMode-3.png)
+
+At this screen, you'll need to tilt the SeeStar over to the angle of your latitude, so if you live at 37 degrees north, you'll need to tilt the SeeStar to 37 degrees. If you don't know your latitude, don't worry, the on-board GPS of the SeeStar does, so it's all good. I'm outside of Denver, so I'm at about 39.9 degrees north, but as you can see, it just rounds up. 
+![Image](https://github.com/trent-pr1ntf/SeeStar-Processing-Guide/blob/e31e459ae91042fb494f5c0d091d146dae93b5dc/images/EQMode-4.png)
+
+Get the measurement right, and it will turn green eventually. It usually needs to be within a degree. We'll do fine adjustments later in the process. 
+![Image](https://github.com/trent-pr1ntf/SeeStar-Processing-Guide/blob/e31e459ae91042fb494f5c0d091d146dae93b5dc/images/EQMode-5.png)
+
+Once the SeeStar likes the measurement, you'll get the option to "Get Polar Deviation." This will use the camera to make sure it knows where it's looking via star charts, basically. Click it and choose what area looks good for you. I always use zenith, looking straight up, as I have a clean shot to the sky above me, no trees or anything in the way. If you have things in the way like a house, trees, etc.. you can pick another direction. 
+![Image](https://github.com/trent-pr1ntf/SeeStar-Processing-Guide/blob/e31e459ae91042fb494f5c0d091d146dae93b5dc/images/EQMode-6.png)
+![Image](https://github.com/trent-pr1ntf/SeeStar-Processing-Guide/blob/e31e459ae91042fb494f5c0d091d146dae93b5dc/images/EQMode-7.png)
+
+Once it figures out where it is, and where it's not, you get the option to make fine adjustments. These are SMALL adjustments, don't be heavy handed. Worry about the figures at the top of the screen, not the same number at the bottom we used before. Get the figures into the green, and as small as possible. It'll be green with anything less than a degree, but I try to get as close to 0.1 as possible. 
+![Image](https://github.com/trent-pr1ntf/SeeStar-Processing-Guide/blob/e31e459ae91042fb494f5c0d091d146dae93b5dc/images/EQMode-8.png)
+
+When you are done, just click back to get out of that screen. If you click the big red button at the bottom of the screen, you'll have to get polar deviation again. Trust me, ask me how I know. 
+
+With mounting mode out of the way, let's start talking about exposure. Remember, we're looking for as much light [link] data as possible, with the least ammount of noise [link]. One 30 Second exposure gets you a good amount of light, but with less noise than 3 10 Second exposures. I'm not saying you *need* to use EQ mode to have better picutres, but it does help. If all you have at your disposal is the ability to use Alt/Az mode, you can still come up with some great photos, it just may take more integration time [link], or total combined exposure time. 
 
 To change your exposure time, while in Stargazing mode, click the three dots in the upper right (...), and select "30s" under Enhance EXP.
 ![Image](https://github.com/trent-pr1ntf/SeeStar-Processing-Guide/blob/e504c0a2fd0677782ff61414bdfb8741ec2fb55f/images/ExposureTime-1.png)
